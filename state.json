@@ -1,19 +1,19 @@
 {
   "bots": {
     "1.0": {
-      "last_processed": 1795291200,
+      "last_processed": 1795305600,
       "pending": null,
       "position": null,
       "trades": [],
       "signals": 0
     },
     "0.9": {
-      "last_processed": 1795291200,
+      "last_processed": 1795305600,
       "pending": null,
       "position": null,
       "trades": [],
       "signals": 0
     }
   },
-  "updated_at": "2026-11-22T00:55:52.269971+00:00"
+  "updated_at": "2026-11-22T04:54:28.465981+00:00"
 }
