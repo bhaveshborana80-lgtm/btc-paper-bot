@@ -1,19 +1,29 @@
 {
   "bots": {
     "1.0": {
-      "last_processed": 1795420800,
-      "pending": null,
+      "last_processed": 1795435200,
+      "pending": {
+        "side": "BUY",
+        "entry": 64520.3,
+        "sl": 61004.2,
+        "index": 719
+      },
       "position": null,
       "trades": [],
-      "signals": 0
+      "signals": 1
     },
     "0.9": {
-      "last_processed": 1795420800,
-      "pending": null,
+      "last_processed": 1795435200,
+      "pending": {
+        "side": "BUY",
+        "entry": 64520.3,
+        "sl": 61004.2,
+        "index": 719
+      },
       "position": null,
       "trades": [],
-      "signals": 0
+      "signals": 1
     }
   },
-  "updated_at": "2026-11-23T13:09:58.572881+00:00"
+  "updated_at": "2026-11-23T16:57:32.197546+00:00"
 }
