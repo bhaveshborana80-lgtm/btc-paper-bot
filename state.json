@@ -1,7 +1,7 @@
 {
   "bots": {
     "1.0": {
-      "last_processed": 1795449600,
+      "last_processed": 1795464000,
       "pending": {
         "side": "BUY",
         "entry": 64520.3,
@@ -13,7 +13,7 @@
       "signals": 1
     },
     "0.9": {
-      "last_processed": 1795449600,
+      "last_processed": 1795464000,
       "pending": {
         "side": "BUY",
         "entry": 64520.3,
@@ -25,5 +25,5 @@
       "signals": 1
     }
   },
-  "updated_at": "2026-11-23T20:48:49.416485+00:00"
+  "updated_at": "2026-11-24T00:58:57.536081+00:00"
 }
